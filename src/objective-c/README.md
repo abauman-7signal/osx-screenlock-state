@@ -26,5 +26,5 @@ To observe events being trapped, run the ScreenSaverMonitor as a user mode
 application by invoking `./ScreenSaverMonitor` from the command line.
 
 ### Conclusion
-I was able to get this daemon to trap screen lock events when run in user mode
+I was able to get the monitor to trap screen lock events when run in user mode
 but not when run as a daemon.
